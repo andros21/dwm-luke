@@ -46,3 +46,4 @@ This build of dwm does not block color emoji in the status/info bar, so you must
   - ewmh tags
   - bar height xresources
 * Personal key bindings and tags
+* Restore `config.h` as original, now compile using `myconfig.h` to avoid merge conflict
